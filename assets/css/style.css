@@ -136,7 +136,7 @@ body {
 .caroselloImmagini {
   padding: 2%;
   border-radius: 25%;
-  height: 150px;
+  height: 20em;
   width: 20%;
 }
 
@@ -194,6 +194,6 @@ footer {
 }
 
 #immagineLogoFooter {
-  width: 20%;
+  width: 10%;
   padding: 5%;
 }

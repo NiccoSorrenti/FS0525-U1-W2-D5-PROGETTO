@@ -74,9 +74,9 @@ console.log(cars);
 */
 
 cars.push({
-  brand: 'Tesla',
-  model: 'Model 3',
-  color: 'white',
+  brand: 'Ferrari',
+  model: 'GT Turbo',
+  color: 'red',
   trims: ['prova1', 'prova2', 'prova3'],
 });
 
