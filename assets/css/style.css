@@ -1,0 +1,199 @@
+/* Your styles here */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: bold;
+  margin: 0.5em 0; /* 1em sopra e sotto, 0 dx e sx */
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.75em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+p {
+  margin: 0.25em 0;
+}
+
+ol,
+ul {
+  padding-left: 2em;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+table {
+  margin: 1em 0;
+}
+
+header {
+  background-color: #222f3f;
+}
+
+#logoAmazon {
+  padding-left: 5%;
+  width: 100px;
+}
+
+ul li {
+  color: white;
+  display: inline-block;
+  padding-left: 2%;
+}
+
+header nav {
+  background-color: #364759;
+  padding: 1%;
+}
+
+#primoParagrafo {
+  color: white;
+  text-align: center;
+  background-color: #f76500;
+  padding: 1%;
+}
+
+main {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+body {
+  background-color: #e9edee;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#primoDiv {
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+#primoBackground {
+  background-repeat: repeat;
+  height: 150px;
+  width: 100%;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+#centered {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#centered2 {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#findThePerfectGift {
+  display: inline-block;
+}
+
+#shopNow {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+#shopNowLink {
+  font-size: 10px;
+  text-decoration: none;
+}
+
+#container2 {
+  background-color: white;
+  margin-top: 3%;
+  text-align: center;
+}
+
+.caroselloImmagini {
+  padding: 2%;
+  border-radius: 25%;
+  height: 150px;
+  width: 20%;
+}
+
+#realtàVirtuale {
+  margin-top: 3%;
+  width: 100%;
+}
+
+#playTheGiftingGame {
+  display: inline-block;
+}
+
+#shopGaming {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+#shopGamingLink {
+  font-size: 10px;
+  text-decoration: none;
+}
+
+#theSoundOfCheer {
+  display: inline-block;
+  margin-bottom: 3%;
+}
+
+#shopAudio {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+#shopAudioLink {
+  font-size: 10px;
+  text-decoration: none;
+}
+
+footer {
+  background-color: #364759;
+  text-align: center;
+}
+
+#paragrafoFooter {
+  padding: 1%;
+}
+
+#paragrafoFooterLink {
+  color: white;
+  text-decoration: none;
+}
+
+#containerFooter {
+  background-color: #222f3f;
+  text-align: center;
+}
+
+#immagineLogoFooter {
+  width: 20%;
+  padding: 5%;
+}
